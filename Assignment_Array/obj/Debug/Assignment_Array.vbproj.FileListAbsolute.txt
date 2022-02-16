@@ -1,0 +1,12 @@
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\bin\Debug\Assignment_Array.exe.config
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\bin\Debug\Assignment_Array.exe
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\bin\Debug\Assignment_Array.pdb
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\bin\Debug\Assignment_Array.xml
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.vbprojAssemblyReference.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.Form1.resources
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.Resources.resources
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.vbproj.GenerateResource.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.vbproj.CoreCompileInputs.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.exe
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.xml
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Assignment_Array\Assignment_Array\obj\Debug\Assignment_Array.pdb
